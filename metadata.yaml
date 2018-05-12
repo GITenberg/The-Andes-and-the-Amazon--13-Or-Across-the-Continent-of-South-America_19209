@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8571'
     url: http://www.gutenberg.org/2009/agents/8571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19209#The-Andes-and-the-Amazon--13-Or-Across-the-Continent-of-South-America
 gutenberg_bookshelf: South America
 gutenberg_issued: '2006-09-08'
 gutenberg_type: Text
